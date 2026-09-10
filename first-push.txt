@@ -6,3 +6,6 @@ first push file
 
 4th edit for branch experiment at all costs.
 
+------------------------------
+
+Pull Requests allow developers to review changes before merging them.
